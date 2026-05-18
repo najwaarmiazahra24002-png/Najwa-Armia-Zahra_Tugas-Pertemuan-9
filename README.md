@@ -9,7 +9,7 @@ Project ini merupakan tugas praktikum Laravel tentang implementasi Routing, View
 - Menampilkan daftar anggota perpustakaan
   ![halamanUtama](halamanUtama.png)
 - Detail anggota
-  ![anggota1](anggota1.png)
+  ![anggota1](images/anggota1.png)
   ![anggota2](anggota2.png)
   ![anggota3](anggota3.png)
   ![anggota4](anggota4.png)
