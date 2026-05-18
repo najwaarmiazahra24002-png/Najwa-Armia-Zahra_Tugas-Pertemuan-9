@@ -7,23 +7,23 @@ Project ini merupakan tugas praktikum Laravel tentang implementasi Routing, View
 ## Fitur
 ### Tugas 1 - Routing dan View Anggota
 - Menampilkan daftar anggota perpustakaan
-  ![halamanUtama](halamanUtama.png)
+  ![halamanUtama](images/halamanUtama.png)
 - Detail anggota
   ![anggota1](images/anggota1.png)
-  ![anggota2](anggota2.png)
-  ![anggota3](anggota3.png)
-  ![anggota4](anggota4.png)
-  ![anggota5](anggota5.png)
+  ![anggota2](images/anggota2.png)
+  ![anggota3](images/anggota3.png)
+  ![anggota4](images/anggota4.png)
+  ![anggota5](images/anggota5.png)
 
 ### Tugas 2 - Controller Kategori Buku
 - Daftar kategori buku
-  ![DaftarKategori](DaftarKategori.png)
+  ![DaftarKategori](images/DaftarKategori.png)
 - Detail kategori
-  ![kategori1](kategori1.png)
-  ![kategori2](kategori2.png)
-  ![kategori3](kategori3.png)
-  ![kategori4](kategori4.png)
-  ![kategori5](kategori5.png)
+  ![kategori1](images/kategori1.png)
+  ![kategori2](images/kategori2.png)
+  ![kategori3](images/kategori3.png)
+  ![kategori4](images/kategori4.png)
+  ![kategori5](images/kategori5.png)
 
 ---
 
